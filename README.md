@@ -4,7 +4,6 @@
 
 A simple web application that calculates your age based on your date of birth. This project is built using HTML, CSS, and JavaScript.
 
-<img width="898" alt="Screenshot 2023-09-14 at 15 56 17" src="https://github.com/seemaenand/FrontEnd---AgeCalculator---HTML-CSS-JavaScript/assets/128905245/9ace9298-29fa-4674-b89b-63562b27f228">
 
 ## Table of Contents
 
